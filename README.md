@@ -50,7 +50,3 @@ From this assignment, I learned how to:
 **👩‍💻 Tharaya Al Shukri**  
 📍 Muscat, Oman  
 📧 [tharayaalshukri1@gmail.com](mailto:tharayaalshukri1@gmail.com)
-
----
-
-> *"Clean code is not just code that works — it's code that teaches and inspires."*
